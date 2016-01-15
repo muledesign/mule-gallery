@@ -1,0 +1,251 @@
+@charset 'utf-8';
+
+@import 'settings';
+@import 'foundation';
+@import 'motion-ui';
+
+@include foundation-global-styles;
+// @include foundation-grid;
+@include foundation-flex-grid;
+@include foundation-typography;
+@include foundation-button;
+@include foundation-forms;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
+@include foundation-accordion;
+@include foundation-accordion-menu;
+@include foundation-badge;
+@include foundation-breadcrumbs;
+@include foundation-button-group;
+@include foundation-callout;
+@include foundation-close-button;
+@include foundation-drilldown-menu;
+@include foundation-dropdown;
+@include foundation-dropdown-menu;
+@include foundation-flex-video;
+@include foundation-label;
+@include foundation-media-object;
+@include foundation-menu;
+@include foundation-off-canvas;
+@include foundation-orbit;
+@include foundation-pagination;
+@include foundation-progress-bar;
+@include foundation-slider;
+@include foundation-sticky;
+@include foundation-reveal;
+@include foundation-switch;
+@include foundation-table;
+@include foundation-tabs;
+@include foundation-thumbnail;
+@include foundation-title-bar;
+@include foundation-tooltip;
+@include foundation-top-bar;
+
+@include motion-ui-transitions;
+@include motion-ui-animations;
+
+//Sections
+
+.section-header{
+  background-color: white;
+  padding: 5% 0 5% 0;
+  color: #222;
+  font-family: "proxima-nova", "Helvetica", sans-serif;
+}
+
+.section-current{
+  padding-bottom: 2rem;
+}
+
+.section-footer{
+  background-color: #eee;
+  padding: 2.5% 0 5% 0;
+}
+
+//Typography
+
+.heading{
+  font-family: "proxima nova";
+}
+
+.heading-page-title{
+  font-size: 14rem;
+  font-weight: 700;
+  display: inline-block;
+  @include breakpoint(medium only){
+    font-size: 8rem;
+  }
+  @include breakpoint(small down){
+    font-size: 6.5rem;
+    text-align: center;
+    margin-left: 1rem;
+  }
+}
+
+.kerning-tight{
+  letter-spacing: -0.75rem;
+  @include breakpoint(medium down){
+    letter-spacing: -0.25rem;
+  }
+}
+
+.heading-subhead{
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #222;
+  font-weight: 700;
+  letter-spacing: 0.05rem;
+  span {
+    padding: 0.25rem;
+  }
+}
+
+.heading-detail{
+  font-size: 1.5rem;
+  margin-left: 1rem;
+  .detail-disclaimer{
+    font-size: 0.75rem;
+    font-style: italic;
+    margin-top: 0;
+  }
+}
+
+.heading-exhibition-title{
+  line-height: 3rem;
+  margin-bottom: 2rem;
+  font-weight: 700;
+  @include breakpoint(small only){
+    font-size: 3rem;
+    line-height: 3rem;
+  }
+}
+
+.heading-link{
+  color: #222;
+  background-color: none;
+  box-shadow: inset 0 -0.75rem #cc3333;
+  -webkit-transition: all 0.3s ease;
+  &:hover{
+    // background-color: #cc3333;
+    box-shadow: inset 0 -1.7rem #cc3333;
+    color: #222;
+  }
+  &:focus{
+    color: #000;
+  }
+}
+
+.exhibition-description{
+  font-size: 1.3rem;
+  font-family: serif;
+  margin-bottom: 2rem;
+  font-family: "adelle";
+}
+
+.exhibition-details{
+  border-left: 5px solid #222;
+  margin-bottom: 2rem;
+}
+
+.links{
+  text-align: center;
+}
+
+.social-link{
+  color: #999;
+  margin-right: 1rem;
+  -webkit-transition: all 0.3s ease;
+  &:hover{
+    color: #222;
+  }
+}
+
+.red{
+  color: #cc3333;
+}
+
+.exhibition-link{
+  color: #222;
+  // background-color: none;
+  box-shadow: inset 0 -0.75rem #cc3333;
+  -webkit-transition: all 0.3s ease;
+  &:hover{
+    color: #222222;
+    box-shadow: inset 0 -1.6rem #cc3333;
+  }
+  &:focus{
+    color: #000;
+  }
+}
+
+//Images
+.exhibition-frame{
+  margin-bottom: 2rem;
+}
+
+.exhibition-img{
+  width: 100%;
+}
+
+.artist-img{
+  -webkit-transition: all 0.2s ease;
+  &:hover{
+    -webkit-transform: scale(1.05);
+  }
+}
+
+.artist-img-big{
+  display: inline-block;
+  width: 75%;
+  text-align: center;
+}
+
+.sold-dot{
+  background-color: #cc3333;
+  width: 2rem;
+  height: 2rem;
+  padding: 0.2rem 0.4rem 0.4rem 0.4rem;
+  border-radius: 50%;
+  margin-left: -2.7rem;
+  -webkit-transform: translateY(1rem);
+  display: inline-block;
+  @include breakpoint(medium down){
+    -webkit-transform: translateY(1rem);
+  }
+  @include breakpoint(large up){
+    width: 4rem;
+    height: 4rem;
+    padding: 0.85rem 0.75rem 0.75rem 0.75rem;
+  }
+}
+
+//Buttons
+.subscribe-button{
+  background-color: #cc3333;
+  -webkit-transition: all 0.3s ease;
+  float: right;
+  &:hover{
+    background-color: #A32929;
+  }
+  &:focus{
+    background-color: #A32929;
+  }
+}
+
+
+//Forms
+.form-container{
+  overflow: hidden;
+  padding-right: .5rem;
+}
+
+.box-form{
+  display: inline-block;
+  // width: 50%;
+}
+
+.signup-form{
+  text-align: center;
+}
