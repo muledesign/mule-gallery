@@ -5,96 +5,72 @@
 @import 'motion-ui';
 
 @include foundation-global-styles;
-// @include foundation-grid;
 @include foundation-flex-grid;
 @include foundation-typography;
 @include foundation-button;
 @include foundation-forms;
-@include foundation-visibility-classes;
-@include foundation-float-classes;
-@include foundation-accordion;
-@include foundation-accordion-menu;
-@include foundation-badge;
-@include foundation-breadcrumbs;
-@include foundation-button-group;
-@include foundation-callout;
-@include foundation-close-button;
-@include foundation-drilldown-menu;
-@include foundation-dropdown;
-@include foundation-dropdown-menu;
-@include foundation-flex-video;
-@include foundation-label;
-@include foundation-media-object;
-@include foundation-menu;
-@include foundation-off-canvas;
-@include foundation-orbit;
-@include foundation-pagination;
-@include foundation-progress-bar;
-@include foundation-slider;
-@include foundation-sticky;
-@include foundation-reveal;
-@include foundation-switch;
-@include foundation-table;
-@include foundation-tabs;
-@include foundation-thumbnail;
-@include foundation-title-bar;
-@include foundation-tooltip;
-@include foundation-top-bar;
 
-@include motion-ui-transitions;
-@include motion-ui-animations;
+// Common Stuff
+$dark-gray:  #222;
+$light-gray: #eee;
+$mule-red:   #cc3333;
+
+$one-tick:   0.15s; // standard unit of across the system
+
+$sans:       "proxima-nova", "Helvetica", sans-serif;
+$serif:      "adelle", "Georgia", serif;
 
 //Sections
 
-.section-header{
+.section-header {
   background-color: white;
   padding: 5% 0 5% 0;
-  color: #222;
-  font-family: "proxima-nova", "Helvetica", sans-serif;
+  color: $dark-gray;
+  font-family: $sans;
 }
 
-.section-current{
+.section-current {
   padding-bottom: 2rem;
 }
 
-.section-footer{
-  background-color: #eee;
+.section-footer {
+  background-color: $light-gray;
   padding: 2.5% 0 5% 0;
 }
 
 //Typography
 
-.heading{
-  font-family: "proxima nova";
+.heading {
+  font-family: $sans;
 }
 
-.heading-page-title{
+.heading-page-title {
   font-size: 14rem;
   font-weight: 700;
   display: inline-block;
-  @include breakpoint(medium only){
+  @include breakpoint(medium only) {
     font-size: 8rem;
   }
-  @include breakpoint(small down){
+  @include breakpoint(small down) {
     font-size: 6.5rem;
     text-align: center;
     margin-left: 1rem;
   }
 }
 
-.kerning-tight{
+.kerning-tight {
   letter-spacing: -0.75rem;
-  @include breakpoint(medium down){
+  @include breakpoint(medium down) {
     letter-spacing: -0.25rem;
   }
 }
 
-.heading-subhead{
+.heading-subhead {
   margin-top: 1rem;
   font-size: 0.875rem;
   font-weight: bold;
   text-transform: uppercase;
-  color: #222;
+  color: $dark-gray;
   font-weight: 700;
   letter-spacing: 0.05rem;
   span {
@@ -102,150 +78,151 @@
   }
 }
 
-.heading-detail{
+.heading-detail {
   font-size: 1.5rem;
   margin-left: 1rem;
-  .detail-disclaimer{
+  .detail-disclaimer {
     font-size: 0.75rem;
     font-style: italic;
     margin-top: 0;
   }
 }
 
-.heading-exhibition-title{
+.heading-exhibition-title {
   line-height: 3rem;
   margin-bottom: 2rem;
   font-weight: 700;
-  @include breakpoint(small only){
+  @include breakpoint(small only) {
     font-size: 3rem;
     line-height: 3rem;
   }
 }
 
-.heading-link{
-  color: #222;
-  background-color: none;
-  box-shadow: inset 0 -0.75rem #cc3333;
-  -webkit-transition: all 0.3s ease;
-  &:hover{
-    // background-color: #cc3333;
-    box-shadow: inset 0 -1.7rem #cc3333;
-    color: #222;
+.textual-link {
+  color: $dark-gray;
+  box-shadow: inset 0 -0.75rem lighten($mule-red, 35%);
+  transition: all $one-tick ease;
+  &:hover {
+    box-shadow: inset 0 -1.7rem lighten($mule-red, 35%);
+    color: $dark-gray;
   }
-  &:focus{
-    color: #000;
+  &:focus {
+    color: black;
   }
 }
 
-.exhibition-description{
+.exhibition-description {
   font-size: 1.3rem;
   font-family: serif;
   margin-bottom: 2rem;
-  font-family: "adelle";
+  font-family: $serif;
 }
 
-.exhibition-details{
-  border-left: 5px solid #222;
+.exhibition-details {
+  border-left: 5px solid $dark-gray;
   margin-bottom: 2rem;
 }
 
-.links{
+.links {
   text-align: center;
 }
 
-.social-link{
+.social-link {
   color: #999;
   margin-right: 1rem;
-  -webkit-transition: all 0.3s ease;
-  &:hover{
-    color: #222;
+  transition: all 0.15s ease;
+  &:hover {
+    color: $dark-gray;
   }
 }
 
-.red{
-  color: #cc3333;
-}
-
-.exhibition-link{
-  color: #222;
-  // background-color: none;
-  box-shadow: inset 0 -0.75rem #cc3333;
-  -webkit-transition: all 0.3s ease;
-  &:hover{
-    color: #222222;
-    box-shadow: inset 0 -1.6rem #cc3333;
-  }
-  &:focus{
-    color: #000;
-  }
+.red {
+  color: $mule-red;
 }
 
 //Images
-.exhibition-frame{
+.exhibition-frame {
   margin-bottom: 2rem;
 }
 
-.exhibition-img{
+.exhibition-img {
   width: 100%;
 }
 
-.artist-img{
-  -webkit-transition: all 0.2s ease;
-  &:hover{
-    -webkit-transform: scale(1.05);
+.artist-img {
+  transition: all 0.15s ease;
+  &:hover {
+    transform: scale(1.05);
   }
 }
 
-.artist-img-big{
+.artist-img-big {
   display: inline-block;
   width: 75%;
   text-align: center;
 }
 
-.sold-dot{
-  background-color: #cc3333;
+.sold-dot {
+  background-color: $mule-red;
   width: 2rem;
   height: 2rem;
   padding: 0.2rem 0.4rem 0.4rem 0.4rem;
   border-radius: 50%;
   margin-left: -2.7rem;
-  -webkit-transform: translateY(1rem);
+  transform: translateY(1rem);
   display: inline-block;
-  @include breakpoint(medium down){
-    -webkit-transform: translateY(1rem);
+  @include breakpoint(medium down) {
+    transform: translateY(1rem);
   }
-  @include breakpoint(large up){
+  @include breakpoint(large up) {
     width: 4rem;
     height: 4rem;
     padding: 0.85rem 0.75rem 0.75rem 0.75rem;
   }
 }
 
-//Buttons
-.subscribe-button{
-  background-color: #cc3333;
-  -webkit-transition: all 0.3s ease;
-  float: right;
-  &:hover{
-    background-color: #A32929;
-  }
-  &:focus{
-    background-color: #A32929;
-  }
-}
-
-
 //Forms
-.form-container{
+.form-container {
   overflow: hidden;
   padding-right: .5rem;
+
+  font-family: $sans;
 }
 
-.box-form{
+.box-form {
   display: inline-block;
-  // width: 50%;
 }
 
-.signup-form{
+.signup-form {
   text-align: center;
+
+  input {
+    font-size: 1.1rem;
+    font-family: $sans;
+  }
+
+  input.email {
+    height: auto;
+  }
+
+  input.button {
+    margin-left: 0.5rem;
+    padding: 1rem 0.5rem;
+  }
+}
+
+.form-container.row {
+  padding: 0 0.5rem;
+}
+
+.subscribe-button {
+  background-color: $mule-red;
+  transition: all 0.15s ease;
+
+  &:hover {
+    background-color: #A32929;
+  }
+  &:focus {
+    background-color: #A32929;
+  }
 }
