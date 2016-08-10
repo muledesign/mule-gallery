@@ -1,0 +1,88 @@
+---
+layout: default
+---
+
+{% assign current_show = site.shows | where: "title", "current" | first %}
+{% assign upcoming_show = site.shows | where: "title", "upcoming" | first %}
+
+<section class="section section-header">
+  <div class="row">
+    <div class="medium-11 medium-offset-1 columns">
+      <h1 class="heading heading-page-title"><span class="kerning kerning-tight">G</span><span class="kerning kerning-tight">a</span><span class="kerning kerning-tight">l</span><span class="kerning kerning-tight">l</span><span class="kerning kerning-tight">e</span>ry</h1>&nbsp;
+      <div class="sold-dot">
+        <img class="francis" src="./images/francis.svg" alt="This piece is sold!">
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="medium-6 medium-offset-1 columns">
+      <h2 class="heading heading-subhead"><span>Location</span></h2>
+      <p class="heading heading-detail"><a class="textual-link" href="https://www.google.com/maps/place/80+Fresno+St,+San+Francisco,+CA+94133/data=!4m2!3m1!1s0x808580f40ca5f49b:0x7afceffbab8c7ab2?sa=X&sqi=2&ved=0ahUKEwi1oOu5_6XKAhVW32MKHbj5BGYQ8gEILTAC">80 Fresno Street<br />San Francisco, CA 94133</a></p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="medium-6 medium-offset-1 columns">
+      <h2 class="heading heading-subhead"><span>Hours of Operation</span></h2>
+      <p class="heading heading-detail">Wednesday–Friday • 1–6pm<br />Saturday • 12-6pm</p>
+    </div>
+  </div>
+</section>
+
+<section class="section section-current exhibition-current">
+  <div class="row">
+    <div class="medium-5 small-10 medium-offset-1 small-offset-1 columns exhibition-frame">
+      <a href="{{ current_show.fb_event_link }}"><img class="img exhibition-img" src="{{ current_show.image }}" /></a>
+    </div>
+    <div class="large-5 large-offset-0 medium-10 medium-offset-1 small-12 columns">
+      <h2 class="heading heading-subhead"><span>Current Exhibition</span><h2>
+      <h1 class="heading heading-exhibition-title">{{ current_show.public_title }}</h1>
+      <div>
+        <h2 class="heading heading-subhead"><span>Dates</span></h2>
+        <p class="heading heading-detail">{{ current_show.start_date }}&ndash;{{ current_show.end_date }}</p>
+      </div>
+      <div>
+        <h2 class="heading heading-subhead"><span>Reception</span></h2>
+        <p class="heading heading-detail">{{ current_show.reception_date }} • {{ current_show.reception_time }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-6 medium-10 medium-offset-1 columns">
+      <h2 class="heading heading-subhead"><span>About the Show</span></h2>
+      <div class="exhibition-description">
+        {{ current_show.content }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr>
+
+<section class="section section-upcoming">
+  <div class="row">
+    <div class="large-5 medium-5 small-10 medium-offset-1 small-offset-1 columns exhibition-frame">
+      <a href="{{ upcoming_show.fb_event_link }}"><img class="img exhibition-img" src="{{ upcoming_show.image }}" /></a>
+    </div>
+    <div class="large-5 large-offset-0 medium-10 medium-offset-1 small-12 columns">
+      <h2 class="heading heading-subhead"><span>Upcoming Exhibition</span><h2>
+        <h1 class="heading heading-exhibition-title">{{ upcoming_show.public_title }}</h1>
+        <div>
+          <h2 class="heading heading-subhead"><span>Dates</span></h2>
+          <p class="heading heading-detail">{{ upcoming_show.start_date }}&ndash;{{ upcoming_show.end_date }}</p>
+        </div>
+        <div>
+          <h2 class="heading heading-subhead"><span>Reception</span></h2>
+          <p class="heading heading-detail">{{ upcoming_show.reception_date }} • {{ upcoming_show.reception_time }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-6 medium-10 medium-offset-1 columns">
+      <h2 class="heading heading-subhead"><span>About the Show</span></h2>
+      <div class="exhibition-description">
+        {{ upcoming_show.content }}
+      </div>
+    </div>
+  </div>
+</section>
