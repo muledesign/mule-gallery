@@ -9,7 +9,7 @@ reception_date: "Septmber 2"
 reception_time: "6&ndash;9pm"
 ---
 
-This fall, we welcome Portland artist [Kate Bingaman-Burt] (http://www.katebingamanburt.com) to Mule Gallery. Kate's work orbits around the objects in our lives: the things we buy, the things we discard, and the collectivity and social interaction that can arise from cycles of consumption. Via illustrations, daily documentation, publications, events, and large-scale participatory projects, Kate’s work invites a dialogue about contemporary forms of exchange.
+This fall, we welcome Portland artist [Kate Bingaman-Burt](http://www.katebingamanburt.com) to Mule Gallery. Kate's work orbits around the objects in our lives: the things we buy, the things we discard, and the collectivity and social interaction that can arise from cycles of consumption. Via illustrations, daily documentation, publications, events, and large-scale participatory projects, Kate’s work invites a dialogue about contemporary forms of exchange.
 
 Stockpile! is a new installation featuring piles of zines, colorful banners and larger than life drawings focusing on her ongoing and completed drawing and photo projects. 
 
