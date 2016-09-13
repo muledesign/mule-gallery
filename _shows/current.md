@@ -1,7 +1,7 @@
 ---
 title: "current"
 public_title: "STOCKPILE! by Kate Bingaman-Burt"
-image: "images/Bingaman-burt.jpg"
+image: "images/bingaman-burt.jpg"
 fb_event_link: "https://www.facebook.com/events/1764797647129650/"
 start_date: "September 2"
 end_date: "October 28"
