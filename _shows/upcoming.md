@@ -11,7 +11,7 @@ reception_time: "6&ndash;9pm"
 
 We are thrilled to have Brooklyn-based designer [Kelli Anderson](http://www.kellianderson.com/) presenting Around & Around, the final show of 2016 at Mule Gallery. The show opens on November 4, 2016 and closes on December 23, 2016. A reception for the artist will be held on November 4 from 6-9pm.
 
-Around & Around is a exhibition of mostly-handheld objects that have been "programmed" to be rotated, spun, or perambulated. The show features kaleidoscopic volvellves, a paper prognostication device, origami lenticulars, a recursive card, and prototypes of a new pop-up book that functions as a record player. By engaging the viewer to play, ponder, and tinker, each piece invites direct interaction with invisible forces larger than is implied by its lo-fi form.
+Around & Around is a exhibition of mostly-handheld objects that have been "programmed" to be rotated, spun, or perambulated. The show features kaleidoscopic volvelles, a paper prognostication device, origami lenticulars, a recursive card, and prototypes of a new pop-up book that functions as a record player. By engaging the viewer to play, ponder, and tinker, each piece invites direct interaction with invisible forces larger than is implied by its lo-fi form.
 
 Kelli Anderson is an interaction designer interested in exposing invisible forces at play in the world. Next Fall, she will publish This Book is a Planetarium — a collection of functional pop-up contraptions — which includes a tiny paper planetarium, and explains how humble structures can perform extraordinary feats. 
 
