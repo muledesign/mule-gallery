@@ -68,3 +68,34 @@ layout: default
       <h2 class="heading heading-subhead"><span>Dates</span></h2>
         <p class="heading heading-detail">{{ current_show.start_date }}&ndash;{{ current_show.end_date }}</p>
       </div>
+<div>
+
+          <h2 class="heading heading-subhead"><span>Reception</span></h2>
+
+          <p class="heading heading-detail">{{ upcoming_show.reception_date }} • {{ upcoming_show.reception_time }}</p>
+
+        </div>
+</div>
+
+    </div>
+</div>
+
+  <div class="row">
+
+    <div class="large-6 medium-10 medium-offset-1 columns">
+
+      <h2 class="heading heading-subhead"><span>About the Show</span></h2>
+
+      <div class="exhibition-description">
+
+        {{ upcoming_show.content }}
+</div>
+
+    </div>
+
+  </div>
+</section>
+
+
+
+
