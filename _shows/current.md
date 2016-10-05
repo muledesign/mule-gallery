@@ -5,7 +5,7 @@ image: "images/bingaman-burt.jpg"
 fb_event_link: "https://www.facebook.com/events/1764797647129650/"
 start_date: "September 2"
 end_date: "October 28"
-reception_date: "Septmber 2"
+reception_date: "September 2"
 reception_time: "6&ndash;9pm"
 ---
 
