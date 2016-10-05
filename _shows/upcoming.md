@@ -1,7 +1,7 @@
 ---
 title: "upcoming"
 public_title: "Around & Around: Kelli Anderson"
-image: "images/anderson.jpg"
+image: "images/image.png"
 fb_event_link: "https://www.facebook.com/events/1652008798422563/"
 start_date: "November 4"
 end_date: "December 23"
