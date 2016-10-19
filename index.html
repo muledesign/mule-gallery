@@ -91,12 +91,14 @@ layout: default
     <div class="events-section large-7 medium-offset-1 medium-10 columns">
       <h2 class="heading heading-subhead"><span>Upcoming Events</span></h2>
       {% for event in events %}
-        {% if event.link != "" %}
-          <div class="event-item">
+        <div class="event-item">
+          {% if event.link != "" %}
             <h3 class="event-title"><a class="event-link" href="{{ event.link }}">{{ event.title }}</a></h3>
-            <span class="event-date">{{ event.datetime }}</span>
-          </div>
-        {% endif %}
+          {% else %}
+            <h3 class="event-title">{{ event.title }}</h3>
+          {% endif %}
+          <span class="event-date">{{ event.datetime }}</span>
+        </div>
       {% endfor %}
     </div>
   </div>
