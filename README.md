@@ -19,7 +19,7 @@ datetime: ""
 ---
 ```
 
-The events are ordered on the site in the order they were made. Events without a link won't show up. When an event is over, you can just delete the event file to take it off the site.
+The events are ordered on the site in the order they were made. Events without a link will show up juuust fine, but all the other fields are mandatory. When an event is over, you can just delete the event file to take it off the site.
 
 ## Anything else
 Ask somebody? I dunno.
