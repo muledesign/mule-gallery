@@ -8,5 +8,18 @@ At any given time, the Mule Gallery site has information on the **current** show
 ## Uploading images
 Go to the `images/` folder and click **"Upload files"**. _It's that easy!_
 
+## Adding upcoming events
+Add a `.md` file in the `_events/` directory. They should look like this:
+
+```
+---
+title: ""
+link: ""
+datetime: ""
+---
+```
+
+The events are ordered on the site in the order they were made. Events without a link won't show up. When an event is over, you can just delete the event file to take it off the site.
+
 ## Anything else
 Ask somebody? I dunno.
