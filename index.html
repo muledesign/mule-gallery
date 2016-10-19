@@ -5,6 +5,8 @@ layout: default
 {% assign current_show = site.shows | where: "title", "current" | first %}
 {% assign upcoming_show = site.shows | where: "title", "upcoming" | first %}
 
+{% assign events = site.events | sort: "date" %}
+
 <section class="section section-header">
   <div class="row">
     <div class="medium-11 medium-offset-1 columns">
@@ -56,46 +58,47 @@ layout: default
   </div>
 </section>
 
-<section class="section section-upcoming">
+<section class="section section-current">
   <div class="row">
-    <div class="large-5 medium-5 small-10 medium-offset-1 small-offset-1 columns exhibition-frame">
+    <div class="medium-5 small-10 medium-offset-1 small-offset-1 columns exhibition-frame">
       <a href="{{ upcoming_show.fb_event_link }}"><img class="img exhibition-img" src="{{ upcoming_show.image }}" /></a>
     </div>
     <div class="large-5 large-offset-0 medium-10 medium-offset-1 small-12 columns">
-      <h2 class="heading heading-subhead"><span>Upcoming Exhibition</span><h2>
-        <h1 class="heading heading-exhibition-title">{{ upcoming_show.public_title }}</h1>
-        <div>
-      <h2 class="heading heading-subhead"><span>Dates</span></h2>
+      <h2 class="heading heading-subhead"><span>Upcoming Exhibition</span></h2>
+      <h1 class="heading heading-exhibition-title">{{ upcoming_show.public_title }}</h1>
+      <div>
+        <h2 class="heading heading-subhead"><span>Dates</span></h2>
         <p class="heading heading-detail">{{ upcoming_show.start_date }}&ndash;{{ upcoming_show.end_date }}</p>
       </div>
-<div>
-
-          <h2 class="heading heading-subhead"><span>Reception</span></h2>
-
-          <p class="heading heading-detail">{{ upcoming_show.reception_date }} • {{ upcoming_show.reception_time }}</p>
-
-        </div>
-</div>
-
+      <div>
+        <h2 class="heading heading-subhead"><span>Reception</span></h2>
+        <p class="heading heading-detail">{{ upcoming_show.reception_date }} • {{ upcoming_show.reception_time }}</p>
+      </div>
     </div>
-</div>
-
+  </div>
   <div class="row">
-
     <div class="large-6 medium-10 medium-offset-1 columns">
-
       <h2 class="heading heading-subhead"><span>About the Show</span></h2>
-
       <div class="exhibition-description">
-
         {{ upcoming_show.content }}
-</div>
-
+      </div>
     </div>
-
   </div>
 </section>
 
-
-
+<section class="section">
+  <div class="row">
+    <div class="events-section large-7 medium-offset-1 medium-10 columns">
+      <h2 class="heading heading-subhead"><span>Upcoming Events</span></h2>
+      {% for event in events %}
+        {% if event.link != "" %}
+          <div class="event-item">
+            <h3 class="event-title"><a class="event-link" href="{{ event.link }}">{{ event.title }}</a></h3>
+            <span class="event-date">{{ event.datetime }}</span>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
 
