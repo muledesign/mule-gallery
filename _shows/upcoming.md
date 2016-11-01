@@ -9,3 +9,4 @@ reception_date: "January 6"
 reception_time: "6&ndash;9pm"
 ---
 
+Details coming soon. 
