@@ -1,5 +1,5 @@
 ---
-title: "upcoming"
+title: "current"
 public_title: "Colorful Streets: Troy Holden"
 image: "images/IMG_0146.JPG"
 fb_event_link: "https://www.facebook.com/events/1826262360953673/"
