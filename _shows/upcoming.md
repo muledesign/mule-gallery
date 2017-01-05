@@ -1,6 +1,7 @@
 ---
 title: "upcoming"
 public_title: "Refugee Stories: Kathryn Clark"
+image: "images/KClark_ShelterStructure.jpg"
 fb_event_link: ""
 start_date: "March 3"
 end_date: "April 28"
