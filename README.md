@@ -20,7 +20,7 @@ order: 1
 ---
 ```
 
-The events are ordered on the site in the order they were made. Events without a link will show up juuust fine, but all the other fields are mandatory. When an event is over, you can just delete the event file to take it off the site.
+The events are ordered on the site using numbers in the "order" line. So if you want an event to show up before all others, you would type 1, second would be 2, etc. You know how to count. Events without a link will show up juuust fine, but all the other fields are mandatory. When an event is over, you can just delete the event file to take it off the site.
 
 ## Anything else
 Ask somebody? I dunno.
