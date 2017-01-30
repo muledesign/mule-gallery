@@ -16,6 +16,7 @@ Add a `.md` file in the `_events/` directory. They should look like this:
 title: ""
 link: ""
 datetime: ""
+order: 1
 ---
 ```
 
