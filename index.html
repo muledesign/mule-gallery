@@ -5,7 +5,7 @@ layout: default
 {% assign current_show = site.shows | where: "title", "current" | first %}
 {% assign upcoming_show = site.shows | where: "title", "upcoming" | first %}
 
-{% assign events = site.events | sort: "date" %}
+{% assign events = site.events | sort: "order" %}
 
 <section class="section section-header">
   <div class="row">
