@@ -1,12 +1,12 @@
 ---
 title: "upcoming"
-public_title: ""
+public_title: "Coming soon..."
 image: ""
 fb_event_link: ""
-start_date: ""
-end_date: ""
-reception_date: ""
-reception_time: ""
+start_date: "May 5"
+end_date: "May 26"
+reception_date: "May 5"
+reception_time: "6-9pm"
 ---
 
 
