@@ -1,20 +1,17 @@
 ---
 title: "current"
-public_title: "Colorful Streets: Troy Holden"
-image: "images/IMG_0146.JPG"
-fb_event_link: "https://www.facebook.com/events/1826262360953673/"
-start_date: "January 6"
-end_date: "February 24"
-reception_date: "January 6"
+public_title: "Refugee Stories: Kathryn Clark"
+image: "images/Kathryn Clark.jpg"
+fb_event_link: "https://www.facebook.com/events/164413687387729/"
+start_date: "March 3"
+end_date: "April 28"
+reception_date: "March 3"
 reception_time: "6&ndash;9pm"
 ---
 
-We are excited to welcome San Francisco-based photographer [Troy Holden](http://troyholden.com/) presenting Colorful Streets, his very first solo exhibition and the first show of 2017 at Mule Gallery. The show opens on January 6, 2017 and closes on February 24, 2017. A reception for the photographer will be held on January 6 from 6-9pm.
+Inspired by the [Bayeux Tapestries](https://en.wikipedia.org/wiki/Bayeux_Tapestry), Refugee Stories is a series of six embroidery panels that follow the recent journey of Syrian refugees. The second largest mass migration in history is documented in various points along the refugees’ path. Each point along their journey was affected by geography: by sea or land, pastoral farmland or war town desert. Using news stories, Google Earth, and numerical data from the UN, each panel pieces the journey into one polyphonic map.
 
+[Kathryn Clark](http://www.kathrynclark.com/) works in the traditional textile mediums of embroidery and quilting to document global societal issues ranging from the US foreclosure crisis to international border controls. Born and raised in the Deep South, a move to the San Francisco Bay Area in the 1990’s posed a stark contrast to her upbringing, informing her current work. Following her passion for the social benefits of urban planning led her to work for Peter Calthorpe, a visionary in the field of urban planning. She left the planning field in 2004 and shifted her passion of geography and mapping into her artwork. Called a ‘dutiful historian’ by American Craft Magazine, her art is included the permanent collection of the Smithsonian American Art Museum.
 
-Colorful Streets is an exhibition of color photographs taken in the streets of San Francisco. The show features candid snapshots of everyday life and its absurdities in the downtown neighborhoods. 
+Thanks to our sponsors [Fort Point Beer Company](http://www.fortpointbeer.com/) for providing refreshments at the reception.
 
-
-Troy Holden is a photographer who focuses his camera on the Mid-Market area of San Francisco. Since 2011, he’s been taking daily walks looking for interesting faces and interactions in the crowded streets. His work has been featured in Juxtapoz, American Photo, and Hamburger Eyes. 
-
-Thanks to our sponsors [Fort Point Beer Company](http://www.fortpointbeer.com/) for keeping us hydrated at the reception.
