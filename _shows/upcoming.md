@@ -1,7 +1,7 @@
 ---
 title: "upcoming"
 public_title: "The Peep Show"
-image: ""
+image: "images/PeepShow.JPG"
 fb_event_link: ""
 start_date: "May 5"
 end_date: "May 26"
