@@ -12,7 +12,7 @@ reception_time: "6-9pm"
 
 Artists:
 
-[Alice Wiese](https://www.instagram.com/himynameisalicewiese/)
+[Alice Wiese](https://www.instagram.com/himynameisalicewiese/) <br><br>
 [Amaryllis](https://www.instagram.com/wildhomegirl/)
 [Anna Alexia](http://www.instagram.com/annaalexia/)
 [Audrey Bodisco](http://www.instagram.com/aud_bod)
