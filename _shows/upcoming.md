@@ -12,15 +12,15 @@ reception_time: "6-9pm"
 
 Artists:
 
-[Alice Wiese](https://www.instagram.com/himynameisalicewiese/) <br><br>
-[Amaryllis](https://www.instagram.com/wildhomegirl/)
-[Anna Alexia](http://www.instagram.com/annaalexia/)
-[Audrey Bodisco](http://www.instagram.com/aud_bod)
-[Jackie Hancock](http://www.instagram.com/jackiehancockphoto/)
-Mary Elizabeth Yarbrough
-[Meghan Shimek](http://www.instagram.com/meghanshimek/)
-[Meryl Pataky](http://www.instagram.com/merylpataky/)
-[Rachel Howe - Small Spells](http://www.instagram.com/smallspells/)
+[Alice Wiese](https://www.instagram.com/himynameisalicewiese/) <br>
+[Amaryllis](https://www.instagram.com/wildhomegirl/) <br>
+[Anna Alexia](http://www.instagram.com/annaalexia/) <br>
+[Audrey Bodisco](http://www.instagram.com/aud_bod) <br>
+[Jackie Hancock](http://www.instagram.com/jackiehancockphoto/) <br>
+Mary Elizabeth Yarbrough <br>
+[Meghan Shimek](http://www.instagram.com/meghanshimek/) <br>
+[Meryl Pataky](http://www.instagram.com/merylpataky/) <br>
+[Rachel Howe - Small Spells](http://www.instagram.com/smallspells/) <br>
 [Western Editions](http://www.instagram.com/westerneditions/)
 
 
