@@ -16,7 +16,7 @@ Participating Artists:
 [Anna Alexia](http://www.instagram.com/annaalexia/) <br>
 [Laura Berger](https://www.lauraberger.com/) <br>
 [Audrey Bodisco](http://www.instagram.com/aud_bod) <br>
-Hannah Crawford <br>
+[Hannah Crawford](https://www.instagram.com/hancraw/) <br>
 [Erin Fong](http://www.westerneditions.com/) <br>
 [Jackie Hancock](http://www.jackiehancock.com) <br>
 [Rachel Howe](http://smallspells.com/) <br>
