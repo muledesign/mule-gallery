@@ -13,7 +13,7 @@ reception_time: "6-9pm"
 Participating Artists:
 
 [Andrés Barraza](https://www.tiocuchillos.com/) <br>
-[Anna Alexia](http://www.instagram.com/annaalexia/) <br>
+[Anna Alexia](https://www.annaalexiabasile.com/) <br>
 [Laura Berger](https://www.lauraberger.com/) <br>
 [Audrey Bodisco](http://www.instagram.com/aud_bod) <br>
 [Hannah Crawford](https://www.instagram.com/hancraw/) <br>
