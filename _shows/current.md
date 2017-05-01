@@ -1,17 +1,33 @@
 ---
 title: "current"
-public_title: "Refugee Stories: Kathryn Clark"
-image: "images/Kathryn Clark.jpg"
-fb_event_link: "https://www.facebook.com/events/164413687387729/"
-start_date: "March 3"
-end_date: "April 28"
-reception_date: "March 3"
-reception_time: "6&ndash;9pm"
+public_title: "The Peep Show"
+image: "images/PeepShow.JPG"
+fb_event_link: ""
+start_date: "May 5"
+end_date: "May 26"
+reception_date: "May 5"
+reception_time: "6-9pm"
 ---
+[Western Editions](http://www.westerneditions.com/) brings together a handful of creatives, artists, and feminists for The Peep Show. With the current climate of women’s rights and LGBTQ rights, The Peep Show hopes to celebrate all women and bring to light our collective responsibility as a community to protect and preserve these rights. All artists have generously agreed to donate the majority of proceeds to Planned Parenthood. 
 
-Inspired by the [Bayeux Tapestries](https://en.wikipedia.org/wiki/Bayeux_Tapestry), Refugee Stories is a series of six embroidery panels that follow the recent journey of Syrian refugees. The second largest mass migration in history is documented in various points along the refugees’ path. Each point along their journey was affected by geography: by sea or land, pastoral farmland or war town desert. Using news stories, Google Earth, and numerical data from the UN, each panel pieces the journey into one polyphonic map.
+Participating Artists:
 
-[Kathryn Clark](http://www.kathrynclark.com/) works in the traditional textile mediums of embroidery and quilting to document global societal issues ranging from the US foreclosure crisis to international border controls. Born and raised in the Deep South, a move to the San Francisco Bay Area in the 1990’s posed a stark contrast to her upbringing, informing her current work. Following her passion for the social benefits of urban planning led her to work for Peter Calthorpe, a visionary in the field of urban planning. She left the planning field in 2004 and shifted her passion of geography and mapping into her artwork. Called a ‘dutiful historian’ by American Craft Magazine, her art is included the permanent collection of the Smithsonian American Art Museum.
+[Andrés Barraza](https://www.tiocuchillos.com/) <br>
+[Anna Alexia](https://www.annaalexiabasile.com/) <br>
+[Laura Berger](https://www.lauraberger.com/) <br>
+[Audrey Bodisco](http://www.instagram.com/aud_bod) <br>
+[Hannah Crawford](http://www.hannahrcrawford.com/) <br>
+[Erin Fong](http://www.westerneditions.com/) <br>
+[Jackie Hancock](http://www.jackiehancock.com) <br>
+[Rachel Howe](http://smallspells.com/) <br>
+[Michelle Morrison](http://michellemorrison.co/) <br>
+[Amaryllis DeJesus Moleski](http://www.amaryllisdejesusmoleski.com/) <br>
+[Meryl Pataky](http://www.merylpataky.com/) <br>
+[Taylor Reid](http://www.westerneditions.com/) <br>
+[Erin M. Riley](http://erinmriley.com/home.html) <br>
+[Meghan Shimek](https://meghanshimek.com/) <br>
+[Alice Wiese](http://alicewiese.com/) <br>
+[Mary Elizabeth Yarbrough](http://www.maryelizabethyarbrough.com/) <br>
 
-Thanks to our sponsors [Fort Point Beer Company](http://www.fortpointbeer.com/) for providing refreshments at the reception.
+Thanks to our sponsors [Fort Point Beer Company](http://www.fortpointbeer.com/) for keeping us hydrated at the reception.
 
