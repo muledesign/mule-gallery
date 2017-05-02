@@ -16,7 +16,7 @@ Participating Artists:
 [Anna Alexia](https://www.annaalexiabasile.com/) <br>
 [Laura Berger](https://www.lauraberger.com/) <br>
 [Audrey Bodisco](http://www.instagram.com/aud_bod) <br>
-[Chaz Bundick](http://toroymoi.com/)
+[Chaz Bundick](http://toroymoi.com/)<br>
 [Hannah Crawford](http://www.hannahrcrawford.com/) <br>
 [Erin Fong](http://www.westerneditions.com/) <br>
 [Jackie Hancock](http://www.jackiehancock.com) <br>
@@ -27,7 +27,7 @@ Participating Artists:
 [Taylor Reid](http://www.westerneditions.com/) <br>
 [Erin M. Riley](http://erinmriley.com/home.html) <br>
 [Meghan Shimek](https://meghanshimek.com/) <br>
-[Brittany Sterling](http://brittanysterling.com/)
+[Brittany Sterling](http://brittanysterling.com/)<br>
 [Alice Wiese](http://alicewiese.com/) <br>
 [Mary Elizabeth Yarbrough](http://www.maryelizabethyarbrough.com/) <br>
 
