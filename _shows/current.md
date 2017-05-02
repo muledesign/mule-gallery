@@ -31,5 +31,5 @@ Participating Artists:
 [Alice Wiese](http://alicewiese.com/) <br>
 [Mary Elizabeth Yarbrough](http://www.maryelizabethyarbrough.com/) <br>
 
-Thanks to our sponsors [Fort Point Beer Company](http://www.fortpointbeer.com/) for keeping us hydrated at the reception.
+Thanks to our sponsors [Fort Point Beer Company](http://www.fortpointbeer.com/) and [Lo-fi Apertifs](http://www.lofiaperitifs.com/) for keeping us hydrated at the reception.
 
