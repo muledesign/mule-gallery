@@ -1,6 +1,6 @@
 ---
 title: "upcoming"
-public_title: "Amos Kennedy"
+public_title: "Amos Kennedy Jr."
 image: "images/amoskennedy.jpg"
 fb_event_link: ""
 start_date: "June 2"
