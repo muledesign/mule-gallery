@@ -14,5 +14,5 @@ We’re excited to be showing his next installation featuring walls full of his 
  
 Learn more about Amos and his craft from Laura Zinger’s documentary, [Proceed and Be Bold](https://www.youtube.com/watch?v=i251DDffUzY), appropriately named after a phrase from one of his vibrant [posters](http://www.kennedyprints.com/images7/proceed.jpg). 
  
-Photo by Marissa Gawel for [99u.com](http://99u.com/articles/54830/amos-kennedy-jr-from-corporate-analyst-to-modern-day-artisan).
+Photo by Marissa Gawel for 99u.com.
 
