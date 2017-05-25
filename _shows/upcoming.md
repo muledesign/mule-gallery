@@ -13,6 +13,8 @@ A self-proclaimed “humble negro printer”,  Amos Kennedy Jr. is living his dr
 We’re excited to be showing his next installation featuring walls full of his affordable one of kind prints. 
  
 Learn more about Amos and his craft from Laura Zinger’s documentary, [Proceed and Be Bold!](https://www.youtube.com/watch?v=i251DDffUzY), appropriately named after a phrase from one of his vibrant [posters](http://www.kennedyprints.com/images7/proceed.jpg). 
+
+Thanks to our sponsors [Fort Point Beer Company](http://www.fortpointbeer.com/) for keeping us hydrated at the reception.
  
 Photo by Marissa Gawel for 99u.com.
 
