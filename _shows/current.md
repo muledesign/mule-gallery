@@ -1,7 +1,7 @@
 ---
 title: "current"
-public_title: "Amos Kennedy Jr.: George Washington Carver Didn't Invent Peanut Butter"
-image: "images/amoskennedy.jpg"
+public_title: "Amos Kennedy Jr: George Washington Carver Didn't Invent Peanut Butter"
+image: "images/Amos Kennedy flyer.jpg"
 fb_event_link: "https://www.facebook.com/events/696920193839404/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A869736873141786%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A869736873141786%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D"
 start_date: "June 2"
 end_date: "June 30"
