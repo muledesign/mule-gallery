@@ -10,7 +10,7 @@ reception_time: "6-9pm"
 ---
 A self-proclaimed “humble negro printer”,  Amos Kennedy Jr. is living his dream. At the age of 40, he gave up his corporate job as a systems analyst to become a letterpress printer and run his highly respected poster shop, [Kennedy Prints](http://www.kennedyprints.com/). His work is known for being bright, bold, and unapologetically political. 
  
-We’re excited to be showing his next installation featuring walls full of his affordable one of kind prints. 
+We’re excited to be showing his next installation featuring walls full of his affordable one of kind prints. For this show, Amos printed up some of his favorite quotes from George Washington Carver, wanting to bring attention to the famous inventor's many amazing achievements. As the show title suggests, inventing peanut butter was not one of them.
  
 Learn more about Amos and his craft from Laura Zinger’s documentary, [Proceed and Be Bold!](https://www.youtube.com/watch?v=i251DDffUzY), appropriately named after a phrase from one of his vibrant [posters](http://www.kennedyprints.com/images7/proceed.jpg). 
 
