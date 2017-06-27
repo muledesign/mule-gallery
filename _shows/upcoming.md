@@ -1,7 +1,7 @@
 ---
 title: "upcoming"
 public_title: "Jen Hewett: Weedwatching"
-image: "images/JenHewettWeedwatching_placeholder.jpg"
+image: "images/Jen Hewett-2.jpg"
 fb_event_link: "https://www.facebook.com/events/186570928542360/?active_tab=about"
 start_date: "July 7"
 end_date: "August 25"
