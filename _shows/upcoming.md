@@ -1,7 +1,7 @@
 ---
-title:
-public_title:
-image:
+title: ""
+public_title: ""
+image: ""
 fb_event_link: ""
 start_date: ""
 end_date: ""
