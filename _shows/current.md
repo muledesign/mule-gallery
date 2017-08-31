@@ -1,5 +1,5 @@
 ---
-title: "upcoming"
+title: "current"
 public_title: "Jon Stich: Prizes May Vary"
 image: "images/weakened_warrior_web.jpg"
 fb_event_link: "https://www.facebook.com/events/759700104202101/?active_tab=about"
