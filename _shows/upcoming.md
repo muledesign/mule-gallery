@@ -1,3 +1,4 @@
+---
 title: "upcoming"
 public_title: "Jennifer Daniel: (ﾉ◕ヮ◕)ﾉ*:・ﾟTalk To Me"
 image: "images/jenniferdaniel_no.png"
