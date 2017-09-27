@@ -2,7 +2,7 @@
 title: "upcoming"
 public_title: "(ﾉ◕ヮ◕)ﾉ*:・ﾟTalk To Me: Jennifer Daniel"
 image: "images/jenniferdaniel_no.png"
-fb_event_link: ""
+fb_event_link: "https://www.facebook.com/events/1457362357632711/?active_tab=about"
 start_date: "November 3"
 end_date: "December 15"
 reception_date: "November 3"
