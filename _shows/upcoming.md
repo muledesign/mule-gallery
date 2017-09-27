@@ -3,9 +3,9 @@ title: "upcoming"
 public_title: "(ﾉ◕ヮ◕)ﾉ*:・ﾟTalk To Me: Jennifer Daniel"
 image: "images/jenniferdaniel_no.png"
 fb_event_link: ""
-start_date: "November 4"
+start_date: "November 3"
 end_date: "December 15"
-reception_date: "November 4"
+reception_date: "November 3"
 reception_time: "6-9pm"
 ---
 [Jennifer Daniel](http://httpcolonforwardslashforwardslashwwwdotjenniferdanieldotcom.com/) is a serious, real artist focused on the divergence of language. What starts out as contemplation soon becomes debased into a tragedy of greed, leaving only a sense of nihilism and the possibility of a new order. As spatial forms become reconfigured through colons and parenthesis, the viewer is left with an epitaph to the limits of how we communicate.
