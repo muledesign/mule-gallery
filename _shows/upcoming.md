@@ -1,13 +1,15 @@
 ---
 title: "upcoming"
-public_title: “Generation of Change: A Movement, Not a Moment”
+public_title: "Generation of Change: A Movement, Not a Moment"
 image: "images/SJSA.JPG"
-fb_event_link: ""
+fb_event_link: "https://www.facebook.com/events/1457362357632711/?active_tab=about"
 start_date: "January 5"
 end_date: "February 23"
 reception_date: "January 5"
 reception_time: "6-9pm"
 ---
-The Social Justice Sewing Academy (SJSA) presents “Generation of Change: A Movement, Not a Moment,” an exhibit of art quilts created by workshop participants of diverse backgrounds from San Francisco, Richmond, Berkeley, Los Angeles, Chicago, Baltimore and Austin. The interactive exhibit demonstrates the powerful collaboration that goes into each quilt block while offering visitors an opportunity to participate in the social justice “artivism” experience. These engaging works of art inform, educate, empower and advocate, while centering voices typically left out of art activism, such as those of incarcerated youth. The featured quilts address topics such as: racial justice, LGBTQ+, climate change, immigration and more and the art expresses a range of emotions from anger and sadness, to hope for social and political change.
+[Jennifer Daniel](https://jennifer-daniel.squarespace.com/) is a serious, real artist focused on the divergence of language. What starts out as contemplation soon becomes debased into a tragedy of greed, leaving only a sense of nihilism and the possibility of a new order. As spatial forms become reconfigured through colons and parenthesis, the viewer is left with an epitaph to the limits of how we communicate.
 
-Founded in 2016, SJSA is a non-profit arts education program that brings together artist-mentors, youth, and community members to learn and create through textile art projects. SJSA supports youth to become civically engaged artists as they are challenged to address social issues in their community that directly affect their lives.
+She is an artist who covers a breadth of topics — ranging from government shut downs, tech culture, and cross-cultural identity. Jennifer Daniel's work has been published in The New Yorker, Vanity Fair, and Wired and she is a regular contributor to The New York Times. Daniel is the author of many books, including [Space!](https://www.amazon.com/Information-Graphics-Space-Simon-Rogers/dp/0763677698/ref=pd_sim_b_2?ie=UTF8&refRID=0Z213M7RRTZFGH8ZYF37), [The Origin of Almost Everything](https://www.amazon.com/New-Scientist-Origin-almost-Everything-ebook/dp/B01HZFB8YO), and How To be Human. She lives in San Francisco, but still keeps all of her clocks set to New York time.
+
+Letterpress prints from her show are available to purchase [here](https://jennifer-daniel.squarespace.com/store/)!
