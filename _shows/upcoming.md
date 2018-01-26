@@ -1,7 +1,7 @@
 ---
 title: "upcoming"
 public_title: "A Rock and a Hard Place: Studies of Detroit and Flint, MI"
-image: ""
+image: "images/TrapHouse1b.jpg"
 fb_event_link: ""
 start_date: "March 2"
 end_date: "April 27"
