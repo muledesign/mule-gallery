@@ -1,6 +1,6 @@
 ---
 title: "upcoming"
-public_title: "A Rock and a Hard Place: Studies of Detroit and Flint, MI"
+public_title: "Inga Loyeva: A Rock and a Hard Place"
 image: "images/TrapHouse1b.jpg"
 fb_event_link: ""
 start_date: "March 2"
