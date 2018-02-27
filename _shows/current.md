@@ -1,13 +1,15 @@
 ---
 title: "current"
-public_title: "Generation of Change: A Movement, Not a Moment"
-image: "images/SJSA.JPG"
-fb_event_link: "https://www.facebook.com/events/1457362357632711/?active_tab=about"
-start_date: "January 5"
-end_date: "February 23"
-reception_date: "January 5"
+public_title: "Inga Loyeva: A Rock and a Hard Place"
+image: "images/TrapHouse1b.jpg"
+fb_event_link: ""
+start_date: "March 2"
+end_date: "April 27"
+reception_date: "March 2"
 reception_time: "6-9pm"
 ---
-[The Social Justice Sewing Academy](http://www.sjsacademy.com/) (SJSA) presents “Generation of Change: A Movement, Not a Moment,” an exhibit of art quilts created by workshop participants of diverse backgrounds from San Francisco, Richmond, Berkeley, Los Angeles, Chicago, Baltimore and Austin. The interactive exhibit demonstrates the powerful collaboration that goes into each quilt block while offering visitors an opportunity to participate in the social justice “artivism” experience. These engaging works of art inform, educate, empower and advocate, while centering voices typically left out of art activism, such as those of incarcerated youth. The featured quilts address topics such as: racial justice, LGBTQ+, climate change, immigration and more and the art expresses a range of emotions from anger and sadness, to hope for social and political change.
+In America we make promises. We have promised the American Dream, the Industrial Revolution, and Inalienable Rights throughout the centuries. Sometimes we deliver those promises and sometimes we fall far short. In Michigan, we have work to do.
 
-Founded in 2016, [SJSA](http://www.sjsacademy.com/) is a non-profit arts education program that brings together artist-mentors, youth, and community members to learn and create through textile art projects. SJSA supports youth to become civically engaged artists as they are challenged to address social issues in their community that directly affect their lives.
+A Rock and a Hard Place is a visual study of Michigan. Artist Inga Loyeva visited Michigan to work on a collaborative community mural as a part of her Art For Civil Discourse projects in October 2017. The time spent there filled her with hope for a better America through the lens of the people crafting meaning in Michigan's cities. In this exposition, the artist portrays the scenes in both Detroit and Flint that narrates the intense philosophical debate in contemporary America. Do we deserve a dignified existence, and, if so, at what cost?
+
+Loyeva’s work draws philosophical inquiry into paintings. They are stories told through the labor of oil painting, a form of socratic method applied in visual language. Captivated by painting not only because of its versatility as a medium but also because of its rich historical archive of images and ideas she designs visual narratives that ask questions and provokes conversation. Inga is intensely interested in understanding the world through the edges of rules where dogma descends into choice.
