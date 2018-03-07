@@ -1,7 +1,7 @@
 ---
 title: "upcoming"
 public_title: "Jim Krewson"
-image: ""
+image: "images/jim krewson.jpg"
 fb_event_link: ""
 start_date: "May 4"
 end_date: "June 29"
