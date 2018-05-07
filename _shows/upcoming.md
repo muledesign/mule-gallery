@@ -1,7 +1,7 @@
 ---
 title: "upcoming"
 public_title: "But Where Are You Really From?"
-image: "images/butwhereareyoureallyfrom.png"
+image: ""
 fb_event_link: ""
 start_date: "July 6"
 end_date: "August 31"
