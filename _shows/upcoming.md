@@ -31,13 +31,13 @@ Featuring work for sale from:
 <br>Nick Lee
 <br>Nisha K. Sethi
 
-Read more about and see sample work from these sign painters at: 
-http://butwherereally.com
+Read more about and see sample work from these sign painters [here](http://butwherereally.com).
 
 Stay updated: 
 [Facebook](http://facebook.com/butwherereally) & [Instagram](http://instagram.com/butwherereally)
 
 Generously sponsored by:
+
 <br>Better Letters
 <br>Shaper
 <br>Scout Books
