@@ -17,19 +17,19 @@ As with any industry, representation matters so this showcase is all about celeb
 Featuring work for sale from:
 
 Alfonso Garcia 
-Ashley Fundora
-Bryan Yonki
-Charmaine Chen
-Emmanuel Sevilla
-John Seastrunk
-Jonathan Jardin
-Lauren D’Amato
-Erick Anguiano
-Melvin Lee
-Michelle Nguyen
-Napang Boonpaung
-Nick Lee
-Nisha K. Sethi
+<br>Ashley Fundora
+<br>Bryan Yonki
+<br>Charmaine Chen
+<br>Emmanuel Sevilla
+<br>John Seastrunk
+<br>Jonathan Jardin
+<br>Lauren D’Amato
+<br>Erick Anguiano
+<br>Melvin Lee
+<br>Michelle Nguyen
+<br>Napang Boonpaung
+<br>Nick Lee
+<br>Nisha K. Sethi
 
 Read more about and see sample work from these sign painters at: 
 http://butwherereally.com
@@ -37,10 +37,9 @@ http://butwherereally.com
 Stay updated: 
 [Facebook](http://facebook.com/butwherereally) & [Instagram](http://instagram.com/butwherereally)
 
-Much incredible thanks to our generous sponsors—be sure to check them out for their rad community and products!
-
+Generously sponsored by:
 Better Letters
-Shaper
-Scout Books
-PPG (1-Shot)
-A.S.Handover Ltd
+<br>Shaper
+<br>Scout Books
+<br>PG (1-Shot)
+<br>A.S.Handover Ltd
