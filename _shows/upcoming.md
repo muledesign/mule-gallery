@@ -16,7 +16,7 @@ As with any industry, representation matters so this showcase is all about celeb
 
 Featuring work for sale from:
 
-Alfonso Garcia 
+<br>Alfonso Garcia 
 <br>Ashley Fundora
 <br>Bryan Yonki
 <br>Charmaine Chen
@@ -38,7 +38,7 @@ Stay updated:
 [Facebook](http://facebook.com/butwherereally) & [Instagram](http://instagram.com/butwherereally)
 
 Generously sponsored by:
-Better Letters
+<br>Better Letters
 <br>Shaper
 <br>Scout Books
 <br>PG (1-Shot)
