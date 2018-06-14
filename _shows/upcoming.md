@@ -16,20 +16,20 @@ As with any industry, representation matters so this showcase is all about celeb
 
 Featuring work for sale from:
 
-Alfonso Garcia 
-<br>Ashley Fundora
-<br>Bryan Yonki
-<br>Charmaine Chen
-<br>Emmanuel Sevilla
-<br>John Seastrunk
-<br>Jonathan Jardin
-<br>Lauren D’Amato
-<br>Erick Anguiano
-<br>Melvin Lee
-<br>Michelle Nguyen
-<br>Napang Boonpaung
-<br>Nick Lee
-<br>Nisha K. Sethi
+[Alfonso Garcia](https://www.instagram.com/alfonsogarcialettering/) 
+<br>[Ashley Fundora](https://www.instagram.com/ashleyfun/)
+<br>[Bryan Yonki](http://welldonesigns.com/)
+<br>[Charmaine Chen](http://old-world-charm.com/)
+<br>[Emmanuel Sevilla](http://emmanuelsevilla.com/)
+<br>[Erick Anguiano](https://www.instagram.com/lettercatsignco/)
+<br>[John Seastrunk](https://thebolditalic.com/san-francisco-s-most-prolific-sign-painter-the-bold-italic-san-francisco-195a801322a)
+<br>[Jonathan Jardin](https://www.instagram.com/aftk_/)
+<br>[Lauren D’Amato](https://www.instagram.com/spooky_orbison/)
+<br>[Melvin Lee](https://www.studiosignco.com/)
+<br>[Michelle Nguyen](http://michellemeng.com)
+<br>[Napang Boonpaung](https://www.napangboonpaung.com/)
+<br>[Nick Lee](https://www.studiosignco.com/)
+<br>[Nisha K. Sethi](http://nishaksethi.com/)
 
 Read more about and see sample work from these sign painters [here](http://butwherereally.com).
 
@@ -38,8 +38,8 @@ Stay updated:
 
 Generously sponsored by:
 
-Better Letters
-<br>Shaper
-<br>Scout Books
-<br>PG (1-Shot)
-<br>A.S.Handover Ltd
+[Better Letters](https://betterletters.co/)
+<br>[Shaper](https://shapertools.com/)
+<br>[Scout Books](https://scoutbooks.com/)
+<br>[1-Shot](http://www.1shot.com/One-Shot/Home.aspx)
+<br>[A.S.Handover Ltd](https://www.handover.co.uk/)
