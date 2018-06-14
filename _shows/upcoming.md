@@ -14,7 +14,7 @@ The sign painting trade is a practice shared around the world but historically, 
 
 As with any industry, representation matters so this showcase is all about celebrating diversity through and within sign painting. We have gathered sign painters from different backgrounds to answer that aggravating question with pride, if you really must know—this is where my family is from!
 
-Featuring work for sale from:
+Featuring work from:
 
 [Alfonso Garcia](https://www.instagram.com/alfonsogarcialettering/) 
 <br>[Ashley Fundora](https://www.instagram.com/ashleyfun/)
@@ -39,7 +39,7 @@ Stay updated:
 Generously sponsored by:
 
 [Better Letters](https://betterletters.co/)
-<br>[Shaper](https://shapertools.com/)
+<br>[Shaper Tools](https://shapertools.com/)
 <br>[Scout Books](https://scoutbooks.com/)
-<br>[1-Shot](http://www.1shot.com/One-Shot/Home.aspx)
+<br>[1-Shot Paints](http://www.1shot.com/One-Shot/Home.aspx)
 <br>[A.S.Handover Ltd](https://www.handover.co.uk/)
