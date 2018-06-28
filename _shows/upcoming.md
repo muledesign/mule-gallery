@@ -8,11 +8,11 @@ end_date: "August 31"
 reception_date: "July 6"
 reception_time: "6-9pm"
 ---
-“But where are you really from?” is a question often asked of people of color. If it were a genuine inquiry, then a neighborhood or city should suffice. However, the repetitiveness and emphasis on “but” and “really” implies that it wasn’t the answer they were looking for when they were actually asking for ethnicity. Whether intentional or not, it creates a sense of otherness and that one could not possibly belong here based on physical features. 
+“But where are you really from?” is a question often asked of people of color. If it were an informed inquiry then an answer naming a neighborhood or city should suffice. However, the repetition and emphasis placed on the “but” and “really?” of the statement implies that it wasn’t the question they were intending to ask at all. Whether intentional or not, this roundabout way of asking a person's ethnicity creates a sense of otherness which is based on surface observations and appearances.
 
-The sign painting trade is a practice shared around the world but historically, the sign painting community in the US did not reflect the diversity of its people. In recent years, with the combination of the remaining trade school still teaching the sign painting curriculum, sign shops that have pulled through the vinyl scare / continue to take in apprentices, businesses big and small re-appreciating hand painted craftsmanship, and the immense amount of information available through the internet—we are breeding generations of diverse sign painters into the mix! 
+The craft of sign making is universal yet historically in the U.S., representations of the sign painting community have not fully reflected the diversity of its participants. In recent years with the resurgence of appreciation for craftsmanship and the immense amount of information available through the internet, there are many new apprentices, students, and sign shops popping up around the world—we are breeding and throwing new generations of diverse sign painters into the mix! 
 
-As with any industry, representation matters so this showcase is all about celebrating diversity through and within sign painting. We have gathered sign painters from different backgrounds to answer that aggravating question with pride, if you really must know—this is where my family is from!
+As with any industry, representation matters so this showcase is about celebrating diversity through and within sign painting. We have gathered sign painters from different backgrounds to answer and explore both the aggravating question "but where are you really from?" with pride, and to reflect on how it informs their individual relationship to sign painting. If you really must know—this is where my family is from!
 
 Featuring work from:
 
