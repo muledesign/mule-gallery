@@ -1,7 +1,7 @@
 ---
 title: "upcoming"
-public_title: "Loud Voices in Tiny Spaces: Gina Contreras"
-image: ""
+public_title: "Loud Voices in Tiny Spaces: Gina M. Contreras"
+image: "images/YouLikedItILikedIt4IG.jpg"
 fb_event_link: ""
 start_date: "September 14"
 end_date: "October 26"
