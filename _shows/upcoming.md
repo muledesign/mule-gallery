@@ -15,10 +15,11 @@ Between them are seasoned publishers, authors, poets, typographers, artists, and
 This very fact has informed each artist’s sense of design from the very beginning. Limitations such as, “Do I have enough type to say what I’m trying to say?” or working with a particular piece of artwork created parameters which pushed creativity, boundaries, and made for some exciting work. Each artist represents a unique eye and perspective, and it is truly a pleasure to put them all together in the same show.
 
 Participating artists:
-
-Johnny Brewton — [X-Ray Book Co.](http://www.xraybookco.com/)
-David Lance Goines — [St. Hieronymus Press](https://www.goines.net/)
-Victoria Heifner — [Milkfed Press](http://www.milkfedpress.com)
-Peter Koch — [Peter Koch, Printers](http://www.peterkochprinters.com/)
-Marina Luz — [Honeylux](http://www.marinaluz.com/)
-Richard Seibert — [Richard Seibert Letterpress](http://www.richardseibert.com/)
+<br>
+<br>
+Johnny Brewton — [X-Ray Book Co.](http://www.xraybookco.com/)<br>
+David Lance Goines — [St. Hieronymus Press](https://www.goines.net/)<br>
+Victoria Heifner — [Milkfed Press](http://www.milkfedpress.com)<br>
+Peter Koch — [Peter Koch, Printers](http://www.peterkochprinters.com/)<br>
+Marina Luz — [Honeylux](http://www.marinaluz.com/)<br>
+Richard Seibert — [Richard Seibert Letterpress](http://www.richardseibert.com/)<br>
