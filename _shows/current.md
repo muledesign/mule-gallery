@@ -1,8 +1,8 @@
 ---
-title: "upcoming"
+title: "current"
 public_title: "Design On Press"
 image: "images/designonpress.JPG"
-fb_event_link: ""
+fb_event_link: "https://www.facebook.com/events/1042186719317205/"
 start_date: "January 11"
 end_date: "February 22"
 reception_date: "January 11"
