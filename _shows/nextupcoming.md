@@ -1,7 +1,7 @@
 ---
 title: "next upcoming"
 public_title: "Tiny Pricks"
-image: "images/TinyPricks.JPG"
+image: "images/TinyPricks.jpg"
 fb_event_link: ""
 start_date: "April 5"
 end_date: "April 19"
