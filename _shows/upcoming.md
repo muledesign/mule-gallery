@@ -1,7 +1,7 @@
 ---
 title: "upcoming"
 public_title: "Interwoven Stories"
-image: "images/InterwovenStories.JPG"
+image: "images/InterwovenStoriesZHP.jpg"
 fb_event_link: ""
 start_date: "March 1"
 end_date: "April 2"
