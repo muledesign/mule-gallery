@@ -4,7 +4,7 @@ layout: default
 
 {% assign current_show = site.shows | where: "title", "current" | first %}
 {% assign upcoming_show = site.shows | where: "title", "upcoming" | first %}
-{% assign upcoming2_show = site.shows | where: "title", "upcoming" | first %}
+{% assign nextupcoming_show = site.shows | where: "title", "next upcoming" | first %}
 
 {% assign events = site.events | sort: "order" %}
 
@@ -92,19 +92,19 @@ layout: default
     <section class="section section-current">
   <div class="row">
     <div class="medium-5 small-10 medium-offset-1 small-offset-1 columns exhibition-frame">
-      <a href="{{ upcoming2_show.fb_event_link }}"><img class="img exhibition-img" src="{{ upcoming2_show.image }}" /></a>
+      <a href="{{ nextupcoming_show.fb_event_link }}"><img class="img exhibition-img" src="{{ nextupcoming_show.image }}" /></a>
     </div>
-    {% if upcoming2_show.public_title %}
+    {% if nextupcoming_show.public_title %}
     <div class="large-5 large-offset-0 medium-10 medium-offset-1 small-12 columns">
-      <h2 class="heading heading-subhead"><span>Upcoming Exhibition</span></h2>
-      <h1 class="heading heading-exhibition-title">{{ upcoming2_show.public_title }}</h1>
+      <h2 class="heading heading-subhead"><span>Next Upcoming Exhibition</span></h2>
+      <h1 class="heading heading-exhibition-title">{{ nextupcoming_show.public_title }}</h1>
       <div>
         <h2 class="heading heading-subhead"><span>Dates</span></h2>
-        <p class="heading heading-detail">{{ upcoming2_show.start_date }}&ndash;{{ upcoming2_show.end_date }}</p>
+        <p class="heading heading-detail">{{ nextupcoming_show.start_date }}&ndash;{{ nextupcoming_show.end_date }}</p>
       </div>
       <div>
         <h2 class="heading heading-subhead"><span>Reception</span></h2>
-        <p class="heading heading-detail">{{ upcoming2_show.reception_date }} • {{ upcoming2_show.reception_time }}</p>
+        <p class="heading heading-detail">{{ nextupcoming_show.reception_date }} • {{ nextupcoming_show.reception_time }}</p>
       </div>
     </div>
   </div>
@@ -112,7 +112,7 @@ layout: default
     <div class="large-6 medium-10 medium-offset-1 columns">
       <h2 class="heading heading-subhead"><span>About the Show</span></h2>
       <div class="exhibition-description">
-        {{ upcoming2_show.content }}
+        {{ nextupcoming_show.content }}
       </div>
     </div>
   </div>
