@@ -1,4 +1,4 @@
-title: "upcoming"
+title: "next upcoming"
 public_title: "Tiny Pricks"
 image: "images/TinyPricks.JPG"
 fb_event_link: ""
