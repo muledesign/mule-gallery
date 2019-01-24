@@ -12,7 +12,7 @@ Diana Weymar continues her work at Mule Gallery with her ongoing series, _Tiny P
 
 The beginning of _Tiny Pricks_ started when on Jan. 8th, 2018 Trump declared, “I am a very stable genius”. 
 
-It is a project in which participants stitch quotes by Trump into antique or inherited textiles to create a material record of his presidency. Pieces are donated to a traveling collection to be exhibited around the country. The methodology of the project is based on social media sharing, participatory political protest, and craftivism. To view over 300 pieces created to date, please follow [@dianaweymar]((https://www.instagram.com/dianaweymar). Tiny Pricks counterbalances the impermanence of Twitter, social media, and Trump’s overall approach to politics. 
+It is a project in which participants stitch quotes by Trump into antique or inherited textiles to create a material record of his presidency. Pieces are donated to a traveling collection to be exhibited around the country. The methodology of the project is based on social media sharing, participatory political protest, and craftivism. To view over 300 pieces created to date, please follow [@dianaweymar](https://www.instagram.com/dianaweymar). Tiny Pricks counterbalances the impermanence of Twitter, social media, and Trump’s overall approach to politics. 
 
 You can participate in this project by joining Diana for several upcoming workshops:<br><br>
 
