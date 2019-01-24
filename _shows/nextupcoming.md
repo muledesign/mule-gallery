@@ -12,9 +12,9 @@ Tiny Pricks is a project in which participants stitch quotes by Trump into antiq
 
 There will be four workshops for Tiny Pricks public series in conjuction with the show. Details below.
 
-Friday, March 1st, 11am - 6pm, stop by and pick up supplies
-Saturday, March 2nd 10am - 5pm all day, hands on workshop, pick up supplies
-Friday, April 5th, 11am - 6pm, stop by and pick up supplies
-Saturday, April 6th, 10am - 5pm all day, hands on workshop, pick up supplies
+Friday, March 1st, 11am - 6pm, stop by and pick up supplies <br>
+Saturday, March 2nd 10am - 5pm all day, hands on workshop, pick up supplies <br>
+Friday, April 5th, 11am - 6pm, stop by and pick up supplies <br>
+Saturday, April 6th, 10am - 5pm all day, hands on workshop, pick up supplies <br>
 
 For more information about Tiny Pricks, follow [here](https://www.instagram.com/dianaweymar) and/or email diana@weymar.com. You are welcome to bring your own linens or to donate some as well. 
