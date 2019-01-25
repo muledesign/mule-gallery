@@ -1,8 +1,8 @@
 ---
 title: "next upcoming"
 public_title: "Tiny Pricks: Tweets, Textiles, and Trump"
-image: "images/TinyPricks.jpg"
-fb_event_link: ""
+image: "images/TinyPricks273.jpg"
+fb_event_link: "https://www.facebook.com/events/714604918933534/"
 start_date: "April 5"
 end_date: "April 19"
 reception_date: "April 5"
@@ -22,3 +22,5 @@ You can participate in this project by joining Diana for several upcoming worksh
 - **Saturday, April 6th, 10am-5pm**— all day, hands on workshop, pick up supplies <br><br>
 
 For more information about Tiny Pricks, follow [here](https://www.instagram.com/dianaweymar) or email diana@weymar.com. You are welcome to bring your own linens or to donate some as well. 
+
+Stitched quote shown above stitched by [@dublin_rose](https://www.instagram.com/dublin_rose/)
