@@ -1,25 +1,17 @@
 ---
 title: "current"
-public_title: "Design On Press"
-image: "images/designonpress.JPG"
-fb_event_link: "https://www.facebook.com/events/1042186719317205/"
-start_date: "January 11"
-end_date: "February 22"
-reception_date: "January 11"
+public_title: "Interwoven Stories"
+image: "images/InterwovenStoriesZHP.jpg"
+fb_event_link: "https://www.facebook.com/events/2024645711165923/"
+start_date: "March 1"
+end_date: "April 2"
+reception_date: "March 1"
 reception_time: "6-9pm"
 ---
-_Design On Press_ is a group show featuring the works of six Bay Area Printers, all with a unique common thread. Curated by Victoria Heifner of Milkfed Press, this group offers an exciting blend of typography, art, design, and of course—letterpress printing.
+_Interwoven Stories_ is a textile project, exploring the use of text, visual narratives, memory, impermanence, storytelling, and identity within community. 
 
-Between them are seasoned publishers, authors, poets, typographers, artists, and printers—yet they all came to letterpress printing as a simple way to communicate. Not one of them began their work in the computer realm. 
+[Diana Weymar](https://www.instagram.com/dianaweymar/) developed _[Interwoven Stories](https://www.facebook.com/InterwovenStories/)_ as 2016 Artist-in-Residence at the Arts Council of Princeton and brings over 100 pages from Princeton, The Peddie School, the Nantucket Stitching Gam, the Zen Hospice Project (San Francisco), Open Space Art (Damascus, Syria), Build Peace (Colombia), the University of Puget Sound (Tacoma), Yarns/NoDominion Theatre (Jersey City), and Trans Tipping Point Project (Victoria, BC). 
 
-This very fact has informed each artist’s sense of design from the very beginning. Limitations such as, “Do I have enough type to say what I’m trying to say?” or working with a particular piece of artwork created parameters which pushed creativity, boundaries, and made for some exciting work. Each artist represents a unique eye and perspective, and it is truly a pleasure to put them all together in the same show.
+“As an international project that originated in Princeton, it’s extremely exciting to see how people from around the world have been inspired to join in the collective narrative.”
 
-Participating artists:
-<br>
-<br>
-Johnny Brewton — [X-Ray Book Co.](http://www.xraybookco.com/)<br>
-David Lance Goines — [St. Hieronymus Press](https://www.goines.net/)<br>
-Victoria Heifner — [Milkfed Press](http://www.milkfedpress.com)<br>
-Peter Koch — [Peter Koch, Printers](http://www.peterkochprinters.com/)<br>
-Marina Luz — [Honeylux](http://www.marinaluz.com/)<br>
-Richard Seibert — [Richard Seibert Letterpress](http://www.richardseibert.com/)<br>
+Please follow Diana on Instagram [@dianaweymar](https://www.instagram.com/dianaweymar/) and Twitter [@dianabw](https://twitter.com/dianabw).
