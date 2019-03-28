@@ -1,7 +1,7 @@
 ---
 title: "next upcoming"
 public_title: "Draplin Design Company Art Show & Pop-Up"
-image: ""
+image: "images/DDC19_mule_gallery_golden_gate.jpg"
 fb_event_link: "https://www.facebook.com/events/316631949028162/"
 start_date: "April 26"
 end_date: "June 7"
