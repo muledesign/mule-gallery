@@ -16,6 +16,8 @@ They'll be installing as much stuff as they possibly can fit on our gallery wall
 
 **Pop-Up Shop Dates**
 
-Friday, April 26th, 6-9pm
-Saturday, April 27th, 12-6pm
-Sunday, April 28th, 12-6pm
+- **Friday, April 26th, 6-9pm**<br>
+- **Saturday, April 27th, 12-6pm**<br>
+- **Sunday, April 28th, 12-6pm**<br>
+
+
