@@ -14,4 +14,8 @@ Back in March of 2016, the [Draplin Design Company](https://www.instagram.com/dr
 
 They'll be installing as much stuff as they possibly can fit on our gallery walls and setting up a weekend long pop-up shop with LIMITED EDITION San Francisco goodies, a roster of colorful screen print posters, patches, pins, decals, hats, beanies, DDC books, slipcases, cups, [Field Notes](https://www.instagram.com/fieldnotesbrand/), [Notes to Self](https://www.instagram.com/_notes_to_self/) nasties, wearables, totes, leather goods, doo-dads, what-the-hells, and must-have trinkets!
 
-Opening night is Friday, April 26th, 6-9pm. The pop-up shop will continue Saturday and Sunday, April 27th-28th, 12-6pm. 
+**Pop-Up Shop Dates**
+
+Friday, April 26th, 6-9pm
+Saturday, April 27th, 12-6pm
+Sunday, April 28th, 12-6pm
