@@ -16,8 +16,6 @@ It is a project in which participants stitch quotes by Trump into antique or inh
 
 You can participate in this project by joining Diana for several upcoming drop-in workshops:<br><br>
 
-- **Friday, March 1st, 11am-6pm**<br>
-- **Saturday, March 2nd 10am-5pm** <br>
 - **Friday, April 5th, 11am-6pm**<br>
 - **Saturday, April 6th, 10am-5pm**<br>
 - **Sunday, April 7th, 10am-5pm**<br>
