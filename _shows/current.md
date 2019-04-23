@@ -1,5 +1,5 @@
 ---
-title: "upcoming"
+title: "current"
 public_title: "Draplin Design Company Art Show & Pop-Up"
 image: "images/DDC19_mule_gallery_golden_gate.jpg"
 fb_event_link: "https://www.facebook.com/events/316631949028162/"
