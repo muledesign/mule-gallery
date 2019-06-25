@@ -2,7 +2,7 @@
 title: "current"
 public_title: "Ryan Carver: Searching"
 image: "images/ryanshow.jpg"
-fb_event_link: "https://www.facebook.com/events/316631949028162/"
+fb_event_link: "https://www.ryancarver.com/searching.html"
 start_date: "June 28, 2019"
 end_date: "August 30, 2019"
 reception_date: "June 28, 2019"
