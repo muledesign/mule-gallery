@@ -8,7 +8,7 @@ end_date: "June 7"
 reception_date: "April 26"
 reception_time: "6-9pm"
 ---
-The DDC gang is coming back to San Francisco! 
+Test.
 
 Back in March of 2016, the [Draplin Design Company](https://www.instagram.com/draplin/) came to our gallery to do a pop-up store and art show. On opening night, the line was all the way down the street and around the corner - it was INCREDIBLE! They'll be back in April to do it all over again!
 
