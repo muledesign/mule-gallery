@@ -6,7 +6,7 @@ fb_event_link: "https://www.facebook.com/events/316631949028162/"
 start_date: "June 28, 2019"
 end_date: "August 30, 2019"
 reception_date: "June 28, 2019"
-reception_time: "6-9pm"
+reception_time: "6–9pm"
 ---
 Sometimes what’s lost is not so much a thing, but a feeling.
 Perhaps an opportunity. Opportunity cost, they call it.
