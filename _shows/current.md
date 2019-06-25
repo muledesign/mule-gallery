@@ -1,7 +1,7 @@
 ---
 title: "current"
 public_title: "Ryan Carver: Searching"
-image: "images/DDC19_mule_gallery_golden_gate.jpg"
+image: "images/ryanshow.jpg"
 fb_event_link: "https://www.facebook.com/events/316631949028162/"
 start_date: "June 28, 2019"
 end_date: "August 30, 2019"
